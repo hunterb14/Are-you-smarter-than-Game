@@ -1,0 +1,45 @@
+.head{
+
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	color: blue;
+	padding-top: 15px;
+}
+
+header{
+
+	height: 150px;
+	background-color: orange;
+	border: 2px solid blue;
+
+}
+
+.box1{
+
+	text-align: center;
+	color: green;
+	padding: 15px;
+}
+
+
+
+.box2{
+
+	text-align: center;
+}
+.box3{
+
+	padding: 15px;
+}
+
+.box4{
+
+	text-align: center;
+}
+
+.box4 h4{
+
+	padding-top: 15px;
+	color: red;
+	text-decoration: underline;
+}

@@ -1,0 +1,30 @@
+.head{
+
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	color: blue;
+	padding-top: 15px;
+}
+
+header{
+
+	height: 150px;
+	background-color: orange;
+	border: 2px solid blue;
+
+}
+
+
+.box2{
+
+	padding-top: 40px;
+	padding-left: 60px;
+}
+
+.box2 h3{
+
+	color: blue;
+
+	padding-top: 10px;
+
+}
